@@ -5,21 +5,33 @@
     border: none;
 }
 body {
-    font-family: 'Space Grotesk', sans-serif;
-    font-weight: 400;
-    color: #6bacb2;
     background-color: #010101;    
 }
 
-/* headings and logo */
-
-h1, h2 {
+h1 {
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 7px;
     color: #6bacb2;
 }
+
+h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #6bacb2; 
+}
+
+p {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400;
+    color: #6bacb2;
+    text-align: center;
+}
+
+/* headings and logo */
 
 #logo {
     float: left;
@@ -31,9 +43,7 @@ h1, h2 {
     height: 70px;
 }
 
-/* nav links */
-
-#menu {
+#menu > h2 {
     font-size: 200%;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -43,24 +53,27 @@ h1, h2 {
     line-height: 75px;
 }
 
-#menu li {
+li {
     float: right;
-    list-style-type: none;
+    list-style-type:none;
     margin-right: 30px;
 }
 
-#menu a {
+#menu h2 {
     text-decoration: none;
     color: #6bacb2;
 }
 
-#menu a:hover {
-    border-bottom: 2px solid;
+#menu h2:hover {
+    text-decoration: underline;
 }
 
 .active {
-    border-bottom: 2px solid;
+    text-decoration: underline;
+    color: #6bacb2;
 }
+
+/* hero image */
 
 #hero-outer {
     width: 100%;
@@ -69,7 +82,7 @@ h1, h2 {
     position: relative;
 }
 
-#cover-text, #cover-text h1, h2 {
+#cover-text h1 {
     color: #010101;
 }
 
@@ -114,4 +127,19 @@ h1, h2 {
     right: 700px;
 
     position: absolute;
+}
+
+/* about us content */
+
+#welcome {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 300%;
+    letter-spacing: 7px;
+}
+
+.introduction h2, p {
+    text-align: center;
+
 }
