@@ -26,6 +26,11 @@ h1, h2 {
     font-size: 300%;
 }
 
+#skull {
+    float: left;
+    height: 70px;
+}
+
 /* nav links */
 
 #menu {
