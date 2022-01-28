@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Space+Grotesk:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +6,23 @@
 }
 body {
     font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400;
     color: #6bacb2;
     background-color: #010101
     
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    color: #6bacb2;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
