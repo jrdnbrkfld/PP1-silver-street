@@ -67,4 +67,20 @@ h1, h2 {
     background: url(../images/hero-image.jpg) no-repeat center left;
     width: 100%;
     height: 100vh;
+
+    /* animates zoom out effect on loading page */
+    animation-name: hero-zoom-out;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* created zoom out for hero image */
+
+@keyframes hero-zoom-out {
+    from{
+        transform: scale(1.2);
+    }
+    to {
+        transform: scale(1);
+    }
 }
