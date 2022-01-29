@@ -29,6 +29,7 @@ p {
     font-weight: 400;
     color: #6bacb2;
     text-align: center;
+    font-size: 120%;
 }
 
 /* headings and logo */
@@ -139,7 +140,18 @@ li {
     letter-spacing: 7px;
 }
 
-.introduction h2, p {
+.motive {
+    padding-top: 30px;
+    width: 400px;
+    float: left;
     text-align: center;
+    margin-left: 10%;
+}
 
+.goals {
+    padding-top: 30px;
+    width: 400px;
+    float: right;
+    text-align: center;
+    margin-right: 10%;
 }
