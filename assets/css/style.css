@@ -54,7 +54,7 @@ p {
     line-height: 75px;
 }
 
-li {
+#menu li {
     float: right;
     list-style-type:none;
     margin-right: 30px;
@@ -189,4 +189,25 @@ li {
     text-align: center;
     vertical-align: middle;
     line-height: 500%;
+}
+
+/* footer */
+
+footer{
+    height: 100px;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 50px;
+    letter-spacing: 150px;
+    padding: 40px;
+    color: #6bacb2;
 }
