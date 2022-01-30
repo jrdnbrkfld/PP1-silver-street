@@ -2,7 +2,7 @@
 
 <p>The Silver Street website is a landing page for adults and children interested in all aspects of gaming, in and around the Greater Manchester area.</p>
 
-<p>Visitors to the website are greeted with all the information they need to know about Silver Street: About the venue, a gallery with the facilities provided, pricing, opening times and a contact information.</p>
+<p>Visitors to the website are greeted with all the information they need to know about Silver Street: About the venue, a gallery, pricing, opening times, location and contact information.</p>
 
 <hr>
 
