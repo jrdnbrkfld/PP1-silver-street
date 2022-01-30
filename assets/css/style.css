@@ -32,7 +32,7 @@ p {
     font-size: 120%;
 }
 
-/* headings and logo */
+/* nav */
 
 #logo {
     float: left;
@@ -193,12 +193,11 @@ p {
 
 /* footer */
 
-footer{
-    height: 100px;
-}
-
 .socials {
     text-align: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .socials > li {
@@ -208,7 +207,8 @@ footer{
 .socials i {
     font-size: 50px;
     letter-spacing: 150px;
-    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     color: #6bacb2;
 }
 
@@ -248,7 +248,7 @@ footer{
 }
 
 #map {
-    bottom: 350px;
+    top: 30%;
     right: 40%;
     position: absolute;
 }
@@ -275,3 +275,93 @@ footer{
     float: left;
     text-align: center;
 }
+
+/* contact us */
+
+#contact-us-hero-outer {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+#cover-text h2 {
+    color: #010101;
+}
+
+#contact-us-hero-image {
+    background: url(../images/contact-us.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+    /* animates zoom out effect on loading page */
+    animation-name: hero-zoom-out;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* created zoom out for hero image */
+
+@keyframes hero-zoom-out {
+    from{
+        transform: scale(1.2);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+#form { 
+    max-width:420px;
+    display: block;
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background-position: center;
+    top: 50%;
+    left: 50%;
+}
+
+.feedback-input {
+    font-family: 'Space Grotesk';
+    color:#6bacb2;
+    font-weight:500;
+    font-size: 18px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: #010101;
+    border:2px solid #6bacb2;
+    transition: all 0.3s;
+    padding: 13px;
+    margin-bottom: 15px;
+    width:100%;
+    box-sizing: border-box;
+    outline:0;
+}
+
+.feedback-input:focus { border:2px solid #010101; }
+
+textarea {
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+}
+
+[type="submit"] {
+    width: 100%;
+    background:#010101;
+    border-radius:5px;
+    border:2px solid #6bacb2;
+    cursor:pointer;
+    color:#6bacb2;
+    font-size:24px;
+    padding-top:10px;
+    padding-bottom:10px;
+    transition: all 0.3s;
+    margin-top:-4px;
+    font-weight:700;
+}
+
+[type="submit"]:hover { background:#010101; }
