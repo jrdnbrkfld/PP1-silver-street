@@ -83,7 +83,7 @@ p {
     position: relative;
 }
 
-#cover-text h1 {
+#cover-text h2 {
     color: #010101;
 }
 
@@ -185,7 +185,7 @@ p {
     box-sizing: border-box;
 }
 
-#events h1 {
+#events h2 {
     text-align: center;
     vertical-align: middle;
     line-height: 100px;
@@ -224,6 +224,7 @@ footer{
 #photos > img {
     width: 100%
 }
+
 
 /* visit us */
 
