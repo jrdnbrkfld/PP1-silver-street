@@ -251,3 +251,26 @@ footer{
     right: 40%;
     position: absolute;
 }
+
+.opening {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 600%;
+    letter-spacing: 7px;
+    resize: vertical;
+    overflow: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.opening-times {
+    text-align: center;
+    resize: horizontal;
+}
+
+.opening-times div {
+    width: 14%;
+    float: left;
+    text-align: center;
+}
