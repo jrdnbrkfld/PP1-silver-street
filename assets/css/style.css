@@ -265,6 +265,14 @@ footer {
     padding-bottom: 30px;
 }
 
+#advice {
+    font-size: 250%;
+    text-align: center;
+    width: 80%;
+    display: inline-block;
+    padding-top: 30px;
+}
+
 .opening {
     text-align: center;
     padding-top: 25px;
