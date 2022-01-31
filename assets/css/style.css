@@ -339,15 +339,32 @@ footer {
     }
 }
 
+#contact-us-cover-text {
+    font-size: 200%;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: 'Space Grotesk', sans-serif;
+    width: min-content;
+    background-color: rgb(107, 172, 178, .5);
+    bottom: 500px;
+    right: 700px;
+    position: absolute;
+}
+
+#contact-us-cover-text h2 {
+    color: #010101;
+}
+
+#questions {
+    text-align: -webkit-center;
+    padding-top: 30px;
+}
+
 #form { 
-    max-width:420px;
+    width: fit-content;
     display: block;
     text-align: center;
-    position: absolute;
-    transform: translate(-50%, -50%);
     background-position: center;
-    top: 50%;
-    left: 50%;
 }
 
 .feedback-input {
