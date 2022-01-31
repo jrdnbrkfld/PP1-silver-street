@@ -190,11 +190,12 @@ p {
 
 /* footer */
 
+footer {
+    height: 150px;
+}
+
 .socials {
     text-align: center;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .socials > li {
@@ -202,10 +203,8 @@ p {
 }
 
 .socials i {
-    font-size: 50px;
-    letter-spacing: 150px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    font-size: 300%;
+    padding: 5%;
     color: #6bacb2;
 }
 
@@ -221,7 +220,6 @@ p {
 #photos > img {
     width: 100%
 }
-
 
 /* visit us */
 
