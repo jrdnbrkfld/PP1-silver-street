@@ -15,6 +15,8 @@ Visitors to the website are greeted with all the information they need to know a
 - Featured at the top of the website on all 4 pages.
 - To the left it displays the Silver Street logo and name, which also acts as a link to return to the home page.
 - To the right it displays all the navigation links. These being Home, Gallery, Visit & Contact Us.
+- This feature allows the user to intuitively navigate to any section of the website that they need.
+
 <img src="assets/images/readme/navbar.png"><img>
 
 ## Hero Image
@@ -51,6 +53,7 @@ Visitors to the website are greeted with all the information they need to know a
 
 - Features a background image of a man and a woman playing a game.
 - A map from Google Maps has been embedded on top of the background image.
+- This allows the user to plan their visit accordingly, checking for public transport links and parking.
 
 <img src="assets/images/readme/map.png"><img>
 
