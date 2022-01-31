@@ -237,10 +237,25 @@ footer {
     position: relative;
 }
 
-#map {
-    top: 30%;
-    right: 40%;
+#visit-us-cover-text {
+    font-size: 200%;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: 'Space Grotesk', sans-serif;
+    width: min-content;
+    background-color: rgb(107, 172, 178, .5);
+    bottom: 500px;
+    right: 700px;
     position: absolute;
+}
+
+#visit-us-cover-text h2 {
+    color: #010101;
+
+}
+
+#map {
+    width: 100%;
 }
 
 .opening {
