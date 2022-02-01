@@ -112,14 +112,11 @@ p {
 
 #cover-text {
     font-size: 200%;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    font-family: 'Space Grotesk', sans-serif;
     width: min-content;
     background-color: rgb(107, 172, 178, .5);
-    bottom: 500px;
-    right: 700px;
     position: absolute;
+    top: 25%;
+    left: 25%;
 }
 
 /* about us content */
@@ -134,6 +131,11 @@ p {
     overflow: auto;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+#strive {
+    padding-bottom: 30px;
+    font-size: 90px;
 }
 
 .about-us {
@@ -239,14 +241,11 @@ footer {
 
 #visit-us-cover-text {
     font-size: 200%;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    font-family: 'Space Grotesk', sans-serif;
     width: min-content;
     background-color: rgb(107, 172, 178, .5);
-    bottom: 500px;
-    right: 700px;
     position: absolute;
+    top: 25%;
+    left: 25%;
 }
 
 #visit-us-cover-text h2 {
@@ -349,14 +348,11 @@ footer {
 
 #contact-us-cover-text {
     font-size: 200%;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    font-family: 'Space Grotesk', sans-serif;
     width: min-content;
     background-color: rgb(107, 172, 178, .5);
-    bottom: 500px;
-    right: 700px;
     position: absolute;
+    top: 25%;
+    left: 25%;
 }
 
 #contact-us-cover-text h2 {
