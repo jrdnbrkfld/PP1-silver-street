@@ -231,8 +231,8 @@ footer {
     width: min-content;
     background-color: rgb(107, 172, 178, .5);
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 25%;
+    left: 25%;
 }
 
 #visit-us-cover-text h2 {
