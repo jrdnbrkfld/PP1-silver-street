@@ -238,7 +238,7 @@ footer {
     width: min-content;
     background-color: rgb(107, 172, 178, .5);
     position: absolute;
-    top: 25%;
+    top: 40%;
     left: 25%;
 }
 
@@ -290,7 +290,6 @@ footer {
 .opening-times div {
     background-color: rgba(0, 0, 0, .8);
     width: 14.28vw;
-    height: 400px;
     float: left;
     padding: 0 0 10px;
     text-align: center;
