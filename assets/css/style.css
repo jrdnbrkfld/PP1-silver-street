@@ -35,7 +35,6 @@ p {
 /* nav */
 
 #logo {
-    float: left;
     font-size: 300%;
 }
 
@@ -46,14 +45,13 @@ p {
 }
 
 #menu, #logo {
-    line-height: 75px;
+    line-height: 50px;
     text-align: center;
+    padding-top: 10px;
 }
 
 #menu li {
-    float: right;
     list-style-type:none;
-    margin-right: 30px;
 }
 
 #menu h2 {
