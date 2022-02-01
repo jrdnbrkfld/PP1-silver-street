@@ -163,7 +163,6 @@ p {
     background-color: rgba(0, 0, 0, .8);
     width: 20%;
     float: left;
-    padding: 0 0 10px;
     text-align: center;
     border: 2px solid #010101;
     box-sizing: border-box;
@@ -191,7 +190,7 @@ footer {
 
 .socials i {
     font-size: 300%;
-    padding: 5%;
+    padding: 1%;
     color: #6bacb2;
 }
 
@@ -234,7 +233,7 @@ footer {
     width: min-content;
     background-color: rgb(107, 172, 178, .5);
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 25%;
 }
 
@@ -245,7 +244,7 @@ footer {
 
 #address {
     padding-bottom: 30px;
-    font-size: 600%;
+    font-size: 300%;
 }
 
 #map {
@@ -255,11 +254,12 @@ footer {
 }
 
 #advice {
-    font-size: 250%;
+    font-size: 200%;
     text-align: center;
     width: 80%;
     display: inline-block;
     padding-top: 30px;
+    text-transform: inherit;
 }
 
 .opening {
@@ -285,13 +285,12 @@ footer {
 
 .opening-times div {
     background-color: rgba(0, 0, 0, .8);
-    width: 14.28vw;
     float: left;
-    padding: 0 0 10px;
     text-align: center;
     border: 2px solid #010101;
     box-sizing: border-box;
     display: inline-block;
+    width: 14.28%;
 }
 
 /* contact us */
