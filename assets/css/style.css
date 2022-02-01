@@ -421,3 +421,9 @@ textarea {
         padding: 0;
     }
 }
+
+@media screen and (max-width: 824px) {
+    #photos {
+        column-count: 3;
+    }
+}
