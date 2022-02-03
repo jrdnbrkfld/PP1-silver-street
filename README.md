@@ -7,10 +7,15 @@
         * [Frequent User Goals](#Frequent-User-Goals)
     * [Design](#Design)
         * [Colour Scheme](#Colour-Scheme)
-        * [Typography](#Typography)
+        * [Fonts](#Fonts)
         * [Imagery](#Imagery)
 - [Features](#Features)
     * [Existing Features](#Existing-Features)
+        * [Navigation Bar](#Navigation-Bar)
+        * [Landing Page Image](#Landing-Page-Image)
+        * [About Us](#About-Us)
+        * [Events](#Events)
+        * [Footer](#Footer)
 
 # Milestone Project 1 - Silver Street
 ## Purpose
