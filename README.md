@@ -16,6 +16,9 @@
         * [About Us](#About-Us)
         * [Events](#Events)
         * [Footer](#Footer)
+        * [Visit Us](#Visit-Us)
+        * [Opening Times](#Opening-Times)
+        * [Contact Us](#Contact-Us)
 
 # Milestone Project 1 - Silver Street
 ## Purpose
@@ -38,6 +41,7 @@ This fictional website was created to spread awareness for the venue. The websit
 * As a First Time user, I want to easily understand the main purpose of the site and learn more about the venue.
 * As a First Time user, I want to be able to easily navigate throughout the site to find content.
 * As a First Time user, I want to find ways to follow Silver Street on different social media platforms.
+* As a First Time user, I want to find out how to locate Silver Street and travel to it.
 #### Returning Visitor Goals
 * As a Returning user, I want to contact the venue so I can request more information.
 #### Frequent Visitor Goals
@@ -67,6 +71,7 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
 * #### Landing Page Image
     * The landing includes an image with an eye catching animation to really grab the users attention.
+    * This is included on all 3 pages, with a different background image on each one.
     * Cover text has been incorporated to give the user a small glimpse into the success of the venue.
 
     ![Landing Page](assets/images/readme/landing-page.png)
@@ -93,3 +98,24 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
     > As a First Time user, I want to find ways to follow Silver Street on different social media platforms.
 
     ![Footer](assets/images/readme/footer.png)
+
+* #### Visit Us
+    * This section includes all of the information required for the user to locate the venue. These are the address, a map from Google Maps and some commuting information.
+    * The purpose of this is to fulfill the user story:
+    > As a First Time user, I want to find out how to locate Silver Street and travel to it.
+
+    ![Visit Us](assets/images/readme/visit-us.png)
+
+* #### Opening Times
+    * This section includes all of the information required for the user to know the opening times and days.
+    * The purpose of this is to fulfill the user story:
+    > As a Frequent user, I want to check to see if there are any changes to the opening times and days.
+
+    ![Opening Times](assets/images/readme/opening-times.png)
+
+* #### Contact Us
+    * This section will allow the user to get in touch with the venue regarding any questions for booking, pricing and any general questions.
+    * The purpose of this is to fulfill the user story:
+    > As a Returning user, I want to contact the venue so I can request more information.
+
+    ![Contact Us](assets/images/readme/form.png)
