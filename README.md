@@ -23,6 +23,8 @@
 - [Technologies](#Technologies)
 - [Testing](#Testing)
 - [Validator Testing](#Validator-Testing)
+- [Deployment](#Deployment)
+- [Credits](#Credits)
 
 
 # Milestone Project 1 - Silver Street
@@ -188,6 +190,12 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
     * In the GitHub repository, navigate to the settings tab.
     * From the source section drop-down menu, select the Main Branch.
     * After the main branch has been selected, the page provided the link to the completed website.
+
+***
+
+## Credits
+
+I'd like to thank my mentor Ronan McClelland for motivation and guidance throughout my project.
 
 
 
