@@ -22,7 +22,8 @@
     * [Features Left to Implement](#Features-Left-To-Impliment)
 - [Technologies](#Technologies)
 - [Testing](#Testing)
-- [Validator Testing](#Validator-Testing)
+    * [Validator Testing](#Validator-Testing)
+    * [Issues And Resolutions](#Issues-And-Resolutions)
 - [Deployment](#Deployment)
 - [Credits](#Credits)
 
