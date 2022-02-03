@@ -4,7 +4,7 @@
     * [User Stories](#User-Stories)
         * [First Time Visitor Goals](#First-Time-Visitor-Goals)
         * [Returning Visitor Goals](#Returning-Visitor-Goals)
-        * [Frequent User Goals](#Frequent-User-Goals)
+        * [Frequent Visitor Goals](#Frequent-User-Goals)
     * [Design](#Design)
         * [Colour Scheme](#Colour-Scheme)
         * [Fonts](#Fonts)
