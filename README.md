@@ -22,6 +22,7 @@
     * [Features Left to Implement](#Features-Left-To-Impliment)
 - [Technologies](#Technologies)
 - [Testing](#Testing)
+- [Validator Testing](#Validator-Testing)
 
 
 # Milestone Project 1 - Silver Street
@@ -178,6 +179,17 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
     * I confirmed after running the website through the lighthouse in devtools the colors and fonts chosen are accessible and easy to read.
 
 ![Lighthouse Results](assets/images/readme/lighthouse.png)
+
+***
+
+## Deployment
+
+* This website was deployed using GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the settings tab.
+    * From the source section drop-down menu, select the Main Branch.
+    * After the main branch has been selected, the page provided the link to the completed website.
+
+
 
 
 
