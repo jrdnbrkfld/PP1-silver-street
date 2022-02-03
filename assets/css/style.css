@@ -192,19 +192,6 @@ footer {
     color: #6bacb2;
 }
 
-/* gallery */
-
-#photos {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
-}
-
-#photos > img {
-    width: 100%
-}
-
 /* visit us */
 
 #visit-us-hero-image {
