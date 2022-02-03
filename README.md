@@ -50,3 +50,12 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
 ![Color Pallete](assets/images/readme/color-pallete.png)
 
+## Features
+
+### Existing Features
+* Navigation Bar
+    * Featured on all 4 pages, the fully responsive navigation bar includes links to the Logo, Home page, Galley, Visit us and Contact us page and is identical across all pages allowing for easy navigation.
+    * This section allows visitors to the website to easily navigate from page to page on all devices without having to revert back to the previous page using the 'back' button.
+    
+    ![Navigation Bar](assets/images/readme/navbar-readme.png)
+
