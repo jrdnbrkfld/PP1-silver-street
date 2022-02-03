@@ -40,3 +40,13 @@ This fictional website was created to spread awareness for the venue. The websit
 * As a Frequent user, I want to check to see if there are any new upcoming events.
 * As a Frequent user, I want to check to see if there are any changes to the opening times and days.
 
+## Design
+#### Imagery
+The initial images you are greeted to when entering the website are all related to the venues main attractions. These images placements and sizes vary depending on the screen size they are viewed on.
+#### Fonts
+The font used throughout the website is **Space Grotesk**. I used only 1 font for the site, but used text-transform to make the headers uppercase and paragraphs lowercase.
+#### Color Scheme
+Two colors are used in this website, these being #010101 and #6bacb2. I found the #6bacb2 color while I was trying to create a logo for the venue, which I didn't actually use in the end product.
+
+![Color Pallete](assets/images/readme/color-pallete.png)
+
