@@ -87,7 +87,7 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
     ![Events](assets/images/readme/events-bar.png)
 
-* #### The Footer
+* #### Footer
     * This section includes all links to the venues social media accounts. Clicking these links will open the page in a new tab allowing easy navigation for the user.
     * The purpose of this is to fulfill the user story:
     > As a First Time user, I want to find ways to follow Silver Street on different social media platforms.
