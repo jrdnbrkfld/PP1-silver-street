@@ -182,6 +182,11 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
 ![Lighthouse Results](assets/images/readme/lighthouse.png)
 
+## Issues and Resolutions
+
+* Spelling mistakes were found and corrected when proof reading.
+* When viewed on smaller screen sizes, text and images would overlap. I corrected this by changing the font size and the width/height on the images.
+
 ***
 
 ## Deployment
@@ -195,7 +200,7 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
 ## Credits
 
-I'd like to thank my mentor Ronan McClelland for motivation and guidance throughout my project.
+I'd like to thank my mentor Ronan McClelland for motivation and guidance throughout my project. 
 
 
 
