@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Purpose](#Purpose)
 * [User Experience Design (UX)](#User-Experience-Design)
-    * [User stories](#User-Stories)
+    * [User Stories](#User-Stories)
         * [First Time Visitor Goals](#First-Time-Visitor-Goals)
         * [Returning Visitor Goals](#Returning-Visitor-Goals)
         * [Frequent User Goals](#Frequent-User-Goals)
@@ -19,6 +19,10 @@
         * [Visit Us](#Visit-Us)
         * [Opening Times](#Opening-Times)
         * [Contact Us](#Contact-Us)
+    * [Features Left to Implement](#Features-Left-To-Impliment)
+- [Technologies](#Technologies)
+- [Testing](#Testing)
+
 
 # Milestone Project 1 - Silver Street
 ## Purpose
@@ -33,10 +37,11 @@ You can find the link to the live website right [here](https://jrdnbrkfld.github
 
 This fictional website was created to spread awareness for the venue. The website can be used to promote and advertise all of the venues activities and events that are taking place. This would increase sales and public knowledge.
 
-*** 
-## User Experience Design
+***
 
-### User stories
+## User Experience Design (UX)
+
+### User Stories
 #### First Time Visitor Goals
 * As a First Time user, I want to easily understand the main purpose of the site and learn more about the venue.
 * As a First Time user, I want to be able to easily navigate throughout the site to find content.
@@ -57,6 +62,8 @@ The font used throughout the website is **Space Grotesk**. I used only 1 font fo
 Two colors are used in this website, these being #010101 and #6bacb2. I found the #6bacb2 color while I was trying to create a logo for the venue, which I didn't actually use in the end product.
 
 ![Color Pallete](assets/images/readme/color-pallete.png)
+
+***
 
 ## Features
 
@@ -119,3 +126,50 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
     > As a Returning user, I want to contact the venue so I can request more information.
 
     ![Contact Us](assets/images/readme/form.png)
+
+* ### Features Left To Implement
+    * I wanted to add a forum but due to my short experience with coding, I was not able to. I will add this at a later date.
+
+***
+
+## Technologies
+
+* HTML
+    * This project uses HTML as the main language that is used to complete the structure of the website.
+* CSS
+    * This project uses custom written CSS that I have used to style the website.
+* [Font Awesome](https://fontawesome.com/)
+    * Font Awesome icons is used in the cover texts and the social media links located in the Footer section of the website.
+* [Google Fonts](https://fonts.google.com/)
+    * Google fonts are used in the project to import the **Space Grotesk** font.
+* [Color Combos](https://www.colorcombos.com/)
+    * Color Combos is used to generate the image of the color pallete.
+* [Pexels](https://www.pexels.com/)
+    * Pexels is the website I used to collect the background images for the website.
+* [TinyJPG](https://tinyjpg.com/)
+    * TinyJPG is used to compress the file sizes of the images I have used.
+* [Am I Responsive?](http://ami.responsivedesign.is/)
+    * Am I Responsive is used to generate the website mock up.
+* [GitHub](https://github.com/)
+    * GitHub is the hosting site I used to store the code for the website.
+* [GitPod](https://gitpod.io/)
+    * GitPod is the Integrated Development Environment used to develop the website in a browser.
+* [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+    * The built in developer tools in Google Chrome are used to test CSS styles, inspect page elements and help with debugging problems with the layout of the website.
+* [Stack Overflow](https://stackoverflow.com/)
+    * Stack Overflow was the primary source for help regarding HTML or CSS issues.
+
+***
+
+## Testing
+
+* I tested that the website is responsive, functions well and looks good on all screen sizes using Google Dev Tools.
+* I used multiple devices including tablet and mobile to confirm if the website is responsive.
+* I confirmed that all text on the website is readable, easy to understand and contrasts well.
+* I confirmed that the form works. It requires entries in every field and the submit button functions.
+
+## Validator Testing
+
+
+
+
