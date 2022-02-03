@@ -1,86 +1,42 @@
-# Silver Street
+## Table of Contents
+* [Purpose](#Purpose)
+* [User Experience Design (UX)](#User-Experience-Design)
+    * [User stories](#User-Stories)
+        * [First Time Visitor Goals](#First-Time-Visitor-Goals)
+        * [Returning Visitor Goals](#Returning-Visitor-Goals)
+        * [Frequent User Goals](#Frequent-User-Goals)
+    * [Design](#Design)
+        * [Colour Scheme](#Colour-Scheme)
+        * [Typography](#Typography)
+        * [Imagery](#Imagery)
+- [Features](#Features)
+    * [Existing Features](#Existing-Features)
 
-The Silver Street website is a landing page for adults and children interested in all aspects of gaming, in and around the Greater Manchester area. It offers various fun activites and events for any age group.
+# Milestone Project 1 - Silver Street
+## Purpose
+This fictional website was created to complete the first Milestone Project for Code Institute's Full Stack Software Developer course.
+I built this from the ground up using knowledge I gained from the previous modules. These being HTML, CSS and User Centric Design. The full list of technologies used can be found in the technologies section further down.
 
-Visitors to the website are greeted with all the information they need to know about Silver Street: About the venue, a gallery, pricing, opening times, location and contact information.
+You can find the link to the live website right [here](https://jrdnbrkfld.github.io/pp1-silver-street/).
 
-[Link to the live site](https://jrdnbrkfld.github.io/pp1-silver-street/index.html)
+## Silver Street Responsive Website
 
-<hr>
+![Website Mock Up](assets/images/readme/website-mock-up.png)
 
-# Features
+This fictional website was created to spread awareness for the venue. The website can be used to promote and advertise all of the venues activities and events that are taking place. This would increase sales and public knowledge.
 
-## Navigation
+*** 
+## User Experience Design
 
-- Featured at the top of the website on all 4 pages.
-- To the left it displays the Silver Street logo and name, which also acts as a link to return to the home page.
-- To the right it displays all the navigation links. These being Home, Gallery, Visit & Contact Us.
-- This feature allows the user to intuitively navigate to any section of the website that they need.
+### User stories
+#### First Time Visitor Goals
+* As a First Time user, I want to easily understand the main purpose of the site and learn more about the venue.
+* As a First Time user, I want to be able to easily navigate throughout the site to find content.
+* As a First Time user, I want to view the website and content clearly on any device.
+* As a First Time user, I want to find ways to follow Silver Street on different social media platforms.
+#### Returning Visitor Goals
+* As a Returning user, I want to contact the venue so I can request more information.
+#### Frequent Visitor Goals
+* As a Frequent user, I want to check to see if there are any new upcoming events.
+* As a Frequent user, I want to check to see if there are any changes to the opening times and days.
 
-<img src="assets/images/readme/navbar.png"><img>
-
-## Hero Image
-
-- The hero image is in keeping with the idea of a gaming venue, showing a man invested in the game he is playing.
-- Cover text is included, rested on top of the hero image giving a quick idea of the success of the venue. It contrasts well with the image in the background.
-- An animation is also used on the hero image, causing it to zoom out when first loaded. The code used is shown below.
-
-<img src="assets/images/readme/heroimagereadme.png"><img>
-
-## About Us
-
-- Features a tagline of Strive to be better, showing the visitor that the goal of the website is to promote positivity and bettering yourself.
-- The motive section gives a brief history about the venue and the kind of tech they have available.
-- The goals section informs the visitor of the main idea of the venue, and what they aim to achieve.
-
-<img src="assets/images/readme/aboutus.png"><img>
-
-## Events
-
-- Gives the visitor a list of the kind of events that are staged at the venue.
-- It shows the game played, day it is taking place and the time it begins.
-- The transparency of the background image had to be adjusted to contrast well with the font color.
-
-<img src="assets/images/readme/events.png"><img>
-
-## Gallery
-
-- Contains 8 images from inside the venue, displayed in a masonry style.
-
-<img src="assets/images/readme/gallery.png"><img>
-
-## Visit Us
-
-- Features a background image of a man and a woman playing a game.
-- A map from Google Maps has been embedded on top of the background image.
-- This allows the user to plan their visit accordingly, checking for public transport links and parking.
-
-<img src="assets/images/readme/map.png"><img>
-
-- At the bottom of the page it also includes the opening/closing times and days they are open.
-
-<img src="assets/images/readme/openingtimes.png"><img>
-
-## Contact Us
-
-- Features a background image of one of the teams that frequent Silver Street.
-- This section has a form included that visitors of the webpage can fill out if they require more information.
-- All 3 of the fields are marked as required before anything can be submitted.
-
-<img src="assets/images/readme/contactus.png"><img>
-
-## Social Media Links
-
-- A total of 5 images to find Silver Street on Facebook, Twitter, Instagram, Youtube and Twitch.
-- When clicked they will open a new tab for the visitor.
-- These appear on every page of the website.
-
-<img src="assets/images/readme/social media.png"><img>
-
-<hr>
-<hr>
-
-
-
-
- 
