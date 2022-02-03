@@ -170,6 +170,15 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
 ## Validator Testing
 
+* HTML
+    * When ran through the official [W3C HTML Validator](https://validator.w3.org/) there were no errors returned.
+* CSS
+    * When ran through the official [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) there were no errors returned.
+* Accessibility
+    * I confirmed after running the website through the lighthouse in devtools the colors and fonts chosen are accessible and easy to read.
+
+![Lighthouse Results](assets/images/readme/lighthouse.png)
+
 
 
 
