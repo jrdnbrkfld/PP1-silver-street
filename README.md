@@ -32,7 +32,6 @@ This fictional website was created to spread awareness for the venue. The websit
 #### First Time Visitor Goals
 * As a First Time user, I want to easily understand the main purpose of the site and learn more about the venue.
 * As a First Time user, I want to be able to easily navigate throughout the site to find content.
-* As a First Time user, I want to view the website and content clearly on any device.
 * As a First Time user, I want to find ways to follow Silver Street on different social media platforms.
 #### Returning Visitor Goals
 * As a Returning user, I want to contact the venue so I can request more information.
@@ -56,6 +55,14 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 * Navigation Bar
     * Featured on all 4 pages, the fully responsive navigation bar includes links to the Logo, Home page, Galley, Visit us and Contact us page and is identical across all pages allowing for easy navigation.
     * This section allows visitors to the website to easily navigate from page to page on all devices without having to revert back to the previous page using the 'back' button.
-    
+    * The purpose of this is to fulfill the user story:
+    > As a First Time user, I want to be able to easily navigate throughout the site to find content.
+
     ![Navigation Bar](assets/images/readme/navbar-readme.png)
+
+* Landing page image
+    * The landing includes an image with an eye catching animation to really grab the users attention.
+    * Cover text has been incorporated to give the user a small glimpse into the success of the venue.
+
+    ![Landing Page](assets/images/readme/landing-page.png)
 
