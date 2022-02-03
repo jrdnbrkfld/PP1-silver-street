@@ -73,7 +73,7 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
 ### Existing Features
 * #### Navigation Bar
-    * Featured on all 4 pages, the fully responsive navigation bar includes links to the Logo, Home page, Galley, Visit us and Contact us page and is identical across all pages allowing for easy navigation.
+    * Featured on all 4 pages, the fully responsive navigation bar includes links to the Logo, Home page, Visit us and Contact us page and is identical across all pages allowing for easy navigation.
     * This section allows visitors to the website to easily navigate from page to page on all devices without having to revert back to the previous page using the 'back' button.
     * The purpose of this is to fulfill the user story:
     > As a First Time user, I want to be able to easily navigate throughout the site to find content.
@@ -201,7 +201,7 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
 ## Credits
 
-I'd like to thank my mentor Ronan McClelland for motivation and guidance throughout my project. 
+I'd like to thank my mentor Ronan McClelland for motivation and guidance throughout my project. I'd also like to thank my cohorts in the Code Institute Slack community.
 
 
 
