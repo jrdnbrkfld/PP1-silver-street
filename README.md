@@ -60,9 +60,31 @@ Two colors are used in this website, these being #010101 and #6bacb2. I found th
 
     ![Navigation Bar](assets/images/readme/navbar-readme.png)
 
-* Landing page image
+* Landing Page Image
     * The landing includes an image with an eye catching animation to really grab the users attention.
     * Cover text has been incorporated to give the user a small glimpse into the success of the venue.
 
     ![Landing Page](assets/images/readme/landing-page.png)
 
+* About Us
+    * The about us section allows the user to see the reasons the venue was created and the long term goals.
+    * This should encourage the user to visit the venue.
+    * The purpose of this is to fulfill the user story:
+    > As a First Time user, I want to easily understand the main purpose of the site and learn more about the venue.
+
+    ![About Us](assets/images/readme/motives-goals.png)
+
+* Events
+    * The events section will allow the user to see exactly when special events will be hosted at the venue.
+    * This section will be constantly updated bringing new events every week.
+    * The purpose of this is to fulfill the user story:
+    > As a Frequent user, I want to check to see if there are any new upcoming events.
+
+    ![Events](assets/images/readme/events-bar.png)
+
+* The Footer
+    * This section includes all links to the venues social media accounts. Clicking these links will open the page in a new tab allowing easy navigation for the user.
+    * The purpose of this is to fulfill the user story:
+    > As a First Time user, I want to find ways to follow Silver Street on different social media platforms.
+
+    ![Footer](assets/images/readme/footer.png)
