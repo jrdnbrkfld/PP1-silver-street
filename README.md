@@ -43,7 +43,7 @@ This fictional website was created to spread awareness for the venue. The websit
 
 ***
 
-## User Experience Design (UX)
+## User Experience Design
 
 ### User Stories
 #### First Time Visitor Goals
